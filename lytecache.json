@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/lytecache/lytecache-cli/releases/download/v0.1.0/lytecache_0.1.0_windows_amd64.zip",
+            "bin": [
+                "lytecache.exe"
+            ],
+            "hash": "39650bf05c413d8843e7d5739cf566f662070e7ce161b787f55faf19333e30bb"
+        }
+    },
+    "homepage": "https://lytecache.github.io/lytecache",
+    "license": "Apache-2.0",
+    "description": "Command-line tool for interacting with lytecache database files."
+}

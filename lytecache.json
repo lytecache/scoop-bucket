@@ -1,12 +1,12 @@
 {
-    "version": "0.2.3",
+    "version": "0.2.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/lytecache/lytecache-cli/releases/download/v0.2.3/lytecache_0.2.3_windows_amd64.zip",
+            "url": "https://github.com/lytecache/lytecache-cli/releases/download/v0.2.4/lytecache_0.2.4_windows_amd64.zip",
             "bin": [
                 "lytecache.exe"
             ],
-            "hash": "8cdb864d1cd9b9fa11f65c067adb698cc803d1be2cdc07233d5f4736429f94f1"
+            "hash": "e33935459ba6ebb1653df68400cdf40487ff8793da737491fb49fe480df1691d"
         }
     },
     "homepage": "https://lytecache.github.io/lytecache",
